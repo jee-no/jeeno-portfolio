@@ -4,16 +4,8 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Jeeno SK — Cyber Security Portfolio",
   description:
-    "Jeeno SK is a Cyber Security enthusiast and 2nd-year CSE student at KPR Institute of Technology. Security researcher, ethical hacker, CTF learner.",
-  keywords: [
-    "Jeeno SK",
-    "Cyber Security",
-    "Security Researcher",
-    "CTF",
-    "Ethical Hacking",
-    "KPR Institute of Technology",
-    "Portfolio",
-  ],
+    "Jeeno SK is a Cyber Security enthusiast and 2nd-year CSE student at KPR Institute of Technology.",
+  keywords: ["Jeeno SK", "Cyber Security", "CTF", "Ethical Hacking"],
   authors: [{ name: "Jeeno SK" }],
   openGraph: {
     title: "Jeeno SK — Cyber Security Portfolio",
