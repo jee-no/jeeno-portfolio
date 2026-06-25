@@ -32,9 +32,9 @@ export const learningTopics = [
   { name: "Cryptography", percent: 40, status: "Learning" },
   { name: "Reverse Engineering", percent: 25, status: "Learning" },
   { name: "Binary Exploitation", percent: 15, status: "Exploring" },
-  { name: "Cloud Security", percent: 10, status: "Exploring" },
-  { name: "Malware Analysis", percent: 20, status: "Learning" },
-  { name: "Digital Forensics", percent: 30, status: "Learning" },
+  { name: "Cloud Security", percent: 0, status: "Not Yet" },
+  { name: "Malware Analysis", percent: 0, status: "Not Yet" },
+  { name: "Digital Forensics", percent: 0, status: "Not Yet" },
 ];
 
 export const currentFocus =
